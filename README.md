@@ -1,4 +1,4 @@
-# Hi there! I'm Alenui Rovis Mbah 👋
+# Hi there! I'm Alenui Rovis 👋
 
 🚀 **Software Engineer | Frontend Developer | Aspiring Data Scientist**  
 🎨 **Graphic Designer | AI Enthusiast | Guitarist**  
