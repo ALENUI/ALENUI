@@ -27,8 +27,8 @@ I'm a passionate **Frontend Developer** specializing in **React.js** and **Tailw
 
 ### 📈 GitHub Stats
 
-![Alenui's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenuiRovis&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenuiRovis&layout=compact&theme=radical)  
+![Alenui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALENUI&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALENUI&layout=compact&theme=radical)  
 
 ---
 
