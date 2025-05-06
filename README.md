@@ -1,7 +1,7 @@
 # Hi there! I'm Alenui Rovis  👋
 
 🚀 **Software Engineer | Aspiring Data Scientist**  
-🎨 ** Designer | AI Enthusiast **  
+🎨 ** Designer **  
 
 ---
 
