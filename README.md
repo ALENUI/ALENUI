@@ -2,11 +2,13 @@
 
 **Front-End Developer · UI/UX Designer · Computer Engineer** based in Bamenda, Cameroon 🇨🇲, open to remote work.
 
-I design interfaces in Figma and build them as fast, responsive web and mobile apps in **React** and **TypeScript**. I hold an MTech in Computer Science (Data Science), so I also work in Python and am interested in machine learning.
+With **4 years of experience**, I design interfaces in Figma and build them as fast, responsive web and mobile apps in **React** and **TypeScript**. I hold an MTech in Computer Science (Data Science), so I also work in Python and machine learning.
 
 - 💼 Front-End Developer at **Galsie** (Lebanon, remote) and **DigitalSphere Inc.** (Cameroon)
 - 🚀 Contributed to **24+ projects** from concept to launch
-- 🎨 Former UI/UX and Brand Design Lead at **Nexura Innovations**
+- 🎬 Content Creator and Social Media Manager at **Dream Life Holdings** (Douala)
+- 🎨 Former UI/UX and Brand Design Lead at **Nexura Innovations**, leading a team of 2 designers
+- 🎓 MTech thesis: *Machine Learning Fraud Detection in Financial Transactions*
 - 🌐 Portfolio: **[alenui.github.io/swe_portfolio](https://alenui.github.io/swe_portfolio/)**
 - 📫 Open to new opportunities: [rovisalenui@gmail.com](mailto:rovisalenui@gmail.com)
 
@@ -45,8 +47,7 @@ I design interfaces in Figma and build them as fast, responsive web and mobile a
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[Grocefy](https://github.com/ALENUI/Grocefy-APP)** | Shared household grocery tracker: one inventory and to-buy list for the whole home, with live sync, push notifications, price memory and offline-first support. | React Native (Expo), TypeScript, Supabase |
-| **[Portfolio](https://github.com/ALENUI/swe_portfolio)** | My portfolio site, prerendered to static HTML for speed and SEO, with a GitHub-API admin page and CI/CD deployment. [Live ↗](https://alenui.github.io/swe_portfolio/) | React, Vite, Tailwind CSS, GitHub Actions |
-| **[Thinksy](https://github.com/ALENUI/Thinksy_FE)** | Peer study platform for finding study partners by skill and joining study groups. *(in progress)* | React, React Router, Tailwind CSS, Material UI |
+| **[Thinksy](https://github.com/ALENUI/Thinksy_FE)** | Peer study platform for finding study partners by skill and joining study groups. | React, React Router, Tailwind CSS, Material UI |
 
 ---
 
