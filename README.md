@@ -7,7 +7,7 @@ With **4 years of experience**, I design interfaces in Figma and build them as f
 - 💼 Front-End Developer at **Galsie** (Lebanon, remote) and **DigitalSphere Inc.** (Cameroon)
 - 🚀 Contributed to **24+ projects** from concept to launch
 - 🎬 Content Creator and Social Media Manager at **Dream Life Holdings** (Douala)
-- 🎨 Former UI/UX and Brand Design Lead at **Nexura Innovations**, leading a team of 2 designers
+- 🎨 Former UI/UX and Brand Design Lead at **Nexura Innovations**, where I led a team of 2 designers
 - 🎓 MTech thesis: *Machine Learning Fraud Detection in Financial Transactions*
 - 🌐 Portfolio: **[alenui.github.io/swe_portfolio](https://alenui.github.io/swe_portfolio/)**
 - 📫 Open to new opportunities: [rovisalenui@gmail.com](mailto:rovisalenui@gmail.com)
